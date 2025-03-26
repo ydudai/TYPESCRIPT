@@ -32,4 +32,19 @@ https://www.typescriptlang.org/
 
 10) Build one or more projects and their dependencies, if out of date  
    tsc -b  
-      
+
+11) Install React + typescript via vite.   
+    the same as with javascript.  but select typescript in installation.    
+     
+12) Run React + typescript  
+    the same as with javascript.   
+    npm run dev  
+
+13) Run a single typescript [file name].ts file in 
+    Use the TypeScript compiler directly:
+    
+    npx tsx ./src/Employee.ts   
+     
+    Need to install the following packages: 
+    tsx@4.19.3
+    Ok to proceed? (y) y     
